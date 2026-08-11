@@ -43,7 +43,8 @@ The easiest customization is in `index.html`:
 
 - Change the question text.
 - Change the default date/time.
-- Change the default plan.
+- Change the available time options in the TIME dropdown.
+- Change the available plans in the THE PLAN dropdown.
 - Change the food choices.
 - Change the final pickup message.
 
